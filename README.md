@@ -45,4 +45,10 @@ const App = () => {
 };
 
 export default App;
+{
+  "name": "my-ai-app",
+  "version": "0.1.0",
+  "homepage": "https://[best].github.io/[bestking2424/best]",
+  ...
+}
 
