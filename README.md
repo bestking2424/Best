@@ -7,7 +7,7 @@ const AI_NAME = "🇪🇹 ai";
 const App = () => {
   const [messages, setMessages] = useState([{
     role: 'bot',
-    content: `ሰላም! እኔ ${AI_NAME} እባላለሁ። የተፈጠርኩት በ ${betselot tamiru} ነው። እንዴት ልረዳህ እችላለሁ?`
+    content: `ሰላም! እኔ ${ethiopia Ai} እባላለሁ። የተፈጠርኩት በ ${betselot tamiru} ነው። እንዴት ልረዳህ እችላለሁ?`
   }]);
 
   // ለግራፊክስ የተሰሩ ስታይሎች
