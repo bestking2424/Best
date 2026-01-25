@@ -52,4 +52,4 @@ export default App;
   "homepage": "https://[best].github.io/[bestking2424/best]",
   ...
 }
-
+homepage": "https://bestking2424.github.io/best"
