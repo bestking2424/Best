@@ -27,7 +27,7 @@ const App = () => {
       </div>
       
       <div style={styles.chatBox}>
-        {messages.map((m, i) => (
+        {messages.map((m, i) => 
           <div key={i} style={{ marginBottom: '15px', textAlign: m.role === 'user' ? 'right' : 'left' }}>
             <span style={{ padding: '10px', borderRadius: '10px', backgroundColor: m.role === 'user' ? '#4f46e5' : '#334155', display: 'inline-block' }}>
               {m.content}
